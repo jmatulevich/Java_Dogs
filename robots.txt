@@ -6,7 +6,7 @@
 #     : It is strongly encouraged to use a robots.txt validator to check
 #       for valid syntax before any robots read it!
 #
-# Examples:
+# Examples: tba
 #
 # Instruct all robots to stay out of the admin area.
 #     : User-agent: *
